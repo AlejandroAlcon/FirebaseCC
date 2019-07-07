@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "722961015702",
+    "firebase_url": "https://persona-daba6.firebaseio.com",
+    "project_id": "persona-daba6",
+    "storage_bucket": "persona-daba6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722961015702:android:8bf674b535d5e114",
+        "android_client_info": {
+          "package_name": "com.lex.alcon.alejandro.lex.firebasecc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722961015702-odspa4equkqu8jvsed944j2l7k5rhsqp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lex.alcon.alejandro.lex.firebasecc",
+            "certificate_hash": "3cc3579a7a0ad9924fd86f0da10592b05d0d4e3b"
+          }
+        },
+        {
+          "client_id": "722961015702-m6ncotoamrl358fnoe2jtk0uu42u262o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeouTtvAmJjHx0WZT_WEQvSX1xYkUQPds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722961015702-m6ncotoamrl358fnoe2jtk0uu42u262o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
